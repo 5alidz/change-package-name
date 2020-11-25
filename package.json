@@ -1,0 +1,13 @@
+{
+  "name": "change-package-name",
+  "version": "1.0.2",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "khaled",
+  "license": "ISC",
+  "description": "change package.json name field"
+}
