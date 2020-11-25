@@ -1,6 +1,6 @@
 {
   "name": "change-package-name",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "main.js",
   "bin": "main.js",
   "repository": "https://github.com/5alidz/change-package-name",
