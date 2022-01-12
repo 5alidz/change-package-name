@@ -1,4 +1,4 @@
-#! /usr/bin/node
+#! /usr/bin/env node
 const fs = require('fs');
 const packageName = process.argv[2];
 const packagePath = './package.json';
